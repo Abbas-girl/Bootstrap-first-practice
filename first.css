@@ -1,4 +1,38 @@
-.grid{
-    display: grid;
-    grid-template-columns: 50% 50% ;
+.body, html{
+    overflow-x: hidden;
 }
+.carol{
+
+    height:35em ;
+    width: 20vw;
+}
+.section-1{
+    background-color: #e3f2fd;;
+    height: 20em;
+}
+.tean{
+    color: rgb(33, 58, 7);
+    position: relative;
+    left: 8.5em;
+    font-style: oblique;
+    font-weight: 700;
+}
+
+.away{
+    color:grey ;
+    font-weight: 450;
+}
+.About{
+    position: relative;
+    top: 2em;
+    left: 8em;
+    width: 80vw;
+    height: 18em;
+}
+
+.btn-primary{
+    position: relative;
+    top: 2em;
+    width:10em ;
+}
+
